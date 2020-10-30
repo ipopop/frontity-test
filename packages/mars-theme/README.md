@@ -1,3 +1,5 @@
+# my version is deployed on Vercel : https://frontity.sqrl.vercel.app
+
 # `@frontity/mars-theme`
 
 [![Version](https://img.shields.io/npm/v/@frontity/mars-theme.svg)](https://www.npmjs.com/package/@frontity/mars-theme) [![npm](https://img.shields.io/npm/dw/@frontity/mars-theme)](https://www.npmjs.com/package/@frontity/mars-theme) [![License: Apache--2.0](https://img.shields.io/badge/license-Apache%202-lightgrey)](https://github.com/frontity/frontity/blob/master/LICENSE)
@@ -12,13 +14,16 @@ Full info about this theme can be found in the [docs](https://docs.frontity.org/
 
 <!-- toc -->
 
-- [Install](#install)
-- [Usage](#usage)
-- [Feature Discussions](#feature-discussions)
-- [Changelog](#changelog)
-- [Open Source Community](#open-source-community)
-  * [Channels](#channels)
-  * [Get involved](#get-involved)
+- [my version is deployed on Vercel : https://frontity.sqrl.vercel.app](#my-version-is-deployed-on-vercel--httpsfrontitysqrlvercelapp)
+- [`@frontity/mars-theme`](#frontitymars-theme)
+  - [Table of contents](#table-of-contents)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Feature Discussions](#feature-discussions)
+  - [Changelog](#changelog)
+  - [Open Source Community](#open-source-community)
+    - [Channels](#channels)
+    - [Get involved](#get-involved)
 
 <!-- tocstop -->
 
