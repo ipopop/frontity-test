@@ -1,4 +1,4 @@
-# my version is deployed on Vercel : https://frontity.sqrl.vercel.app
+my version is deployed on Vercel : https://frontity.sqrl.vercel.app
 
 # `@frontity/mars-theme`
 
@@ -14,7 +14,6 @@ Full info about this theme can be found in the [docs](https://docs.frontity.org/
 
 <!-- toc -->
 
-- [my version is deployed on Vercel : https://frontity.sqrl.vercel.app](#my-version-is-deployed-on-vercel--httpsfrontitysqrlvercelapp)
 - [`@frontity/mars-theme`](#frontitymars-theme)
   - [Table of contents](#table-of-contents)
   - [Install](#install)
