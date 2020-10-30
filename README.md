@@ -1,13 +1,22 @@
 # my-frontity-project
 
+my version is deployed on Vercel : https://frontity.sqrl.vercel.app
+
+
 This project was bootstrapped with [Frontity](https://frontity.org/).
 
 #### Table of Contents
 
-- [Launch a development server](#launch-a-development-server)
-- [Create your custom theme](#create-your-custom-theme)
-- [Create a production-ready build](#create-a-production-ready-build)
-- [Deploy](#deploy)
+- [my-frontity-project](#my-frontity-project)
+      - [Table of Contents](#table-of-contents)
+    - [Launch a development server](#launch-a-development-server)
+    - [Create your custom theme](#create-your-custom-theme)
+    - [Create a production-ready build](#create-a-production-ready-build)
+    - [Deploy](#deploy)
+      - [As a node app](#as-a-node-app)
+      - [As a serverless service](#as-a-serverless-service)
+    - [» Frontity Channels 🌎](#-frontity-channels-)
+    - [» Get involved 🤗](#-get-involved-)
 
 ### Launch a development server
 
