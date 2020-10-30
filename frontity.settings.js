@@ -3,7 +3,7 @@ const settings = {
   "state": {
     "frontity": {
       "url": "https://test.frontity.org",
-      "title": "What a Beautiful World",
+      "title": "What a Wonderful World",
       "description": "A virtual visit of the world's beautiful places"
     }
   },
