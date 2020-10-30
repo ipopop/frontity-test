@@ -36,6 +36,7 @@ export default connect(FeaturedMedia);
 const Container = styled.div`
   margin-top: 16px;
   height: 300px;
+  max-width: 90vw;
 `;
 
 const StyledImage = styled(Image)`
