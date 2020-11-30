@@ -4,7 +4,7 @@ const settings = {
     "frontity": {
       "url": "https://test.frontity.org",
       "title": "What a Wonderful World",
-      "description": "A virtual visit of the world's beautiful places"
+      "description": "A virtual tour of the most beautiful places in the world"
     }
   },
   "packages": [
